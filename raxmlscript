@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "This is a bash script to do multiple sequence alignment with 
+echo "This is a bash script to do msa with 
 muscle and phylogenetic tree construction with RAxML. Welcome!"
 
 #Set up variables
